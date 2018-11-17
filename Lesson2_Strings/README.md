@@ -1,6 +1,6 @@
-##README
-####Last Update: November 17, 2018
-####Updated by: Priya B.
+## README
+#### Last Update: November 17, 2018
+#### Updated by: Priya B.
 
 **GOAL: Students understand strings and how to index them**
 * Understand the syntax of a string in python
