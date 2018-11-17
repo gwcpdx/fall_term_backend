@@ -1,6 +1,6 @@
-##README
-###Last Update: November 17, 2018
-###Updated by: Priya B.
+## README
+### Last Update: November 17, 2018
+### Updated by: Priya B.
 
 Lesson1_variables folder incldues the following documents:
 
