@@ -13,4 +13,4 @@
 **Files in this folder include:**
 
 * Lesson2_strings_worksheet.pdf: Worksheet of problems for students (to print).
-* Lession2_strings_livecode.py:  live coding examples to do in class.
+* Lesson2_strings_livecode.py:  live coding examples to do in class.
