@@ -1,6 +1,6 @@
-##README
-####Last Update:  November 17, 2018
-####Updated by: Priya B.
+## README
+#### Last Update:  November 17, 2018
+#### Updated by: Priya B.
 
 **GOAL: Introduction to lists**
 * Undersatnd the syntax of a list
