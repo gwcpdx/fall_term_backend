@@ -17,5 +17,6 @@
 * Lesson5_conditionals_practiceproblems.pdf:  Practice problems (in repl assignments).
 * Lesson5_conditionals_practiceproblems_ans.py:  Answers to practice problems (.py file version)
 * Lesson5_conditionals_practiceproblems_ans.pdf:  Answers to practice problems (PDF file version)
+* markdownfiles folder has markdown versons for the practice problems and answers for ease of editing
 
 
