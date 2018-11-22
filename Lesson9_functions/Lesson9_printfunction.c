@@ -1,3 +1,5 @@
+# This is what the print function looks like in the python language.
+
 static PyObject *
 builtin_print(PyObject *self, PyObject *args, PyObject *kwds)
 {
