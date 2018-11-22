@@ -13,7 +13,7 @@ for i in MONTHS:
 	print( i )
 
 ####################################
-## Question 2: Printing months
+## Question 2: Printing numbers
 ####################################
 
 # Initiate empty list
