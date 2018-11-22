@@ -11,7 +11,7 @@ for i in MONTHS:
 	print( i )
 ```
 
-#### Question 2: Printing months
+#### Question 2: Printing numbers
 
 ```python
 # Initiate empty list
